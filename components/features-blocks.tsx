@@ -35,7 +35,7 @@ export default function FeaturesBlocks() {
 </div>
 
 {/* Image */}
-<Image className="md:max-w-none mx-auto rounded" src={Techie} width={900} height="1000" />
+<Image className="md:max-w-none mx-auto rounded" src={Techie} alt="Alt Text" width={900} height={1000} />
         </div>
       </div>
     </section>
